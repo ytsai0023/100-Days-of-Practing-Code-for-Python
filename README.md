@@ -16,8 +16,8 @@ https://www.udemy.com/course/100-days-of-code/
 
 | Title   | Staus | Percentage | ETA  |   AF |
 | :------ | ----: | :--------: | :--: | ---: |
-| Day 1   |  [v ] |    100%    | 1/17 | 1/17 |
-| Day 2   |   [ ] |    80%     | 1/17 |      |
+| Day 1   |   [v] |    100%    | 1/17 | 1/17 |
+| Day 2   |   [v] |    100%    | 1/17 | 1/17 |
 | Day 3   |   [ ] |            |      |      |
 | Day 4   |   [ ] |            |      |      |
 | Day 5   |   [ ] |            |      |      |
